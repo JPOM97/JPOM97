@@ -9,7 +9,7 @@
 ##I'm a Web Developer student!
 
 - I'm currently finishing a Full-Stack Web Developer Bootcamp @ Academia de Código
-- I’m currently learning everything :rolling_on_the_floor_laughing:
+- I’m currently learning everything 🤣
 - Ask me about anything. I will try to help you as much as I can.
 - 2022 Goals: Starting a career as a full stack developer
 - Fun fact: I love cars and playing videogames
