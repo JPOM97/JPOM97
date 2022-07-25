@@ -4,15 +4,15 @@
 
 ##Let's connect
 
-[![Gmail Badge](https://img.shields.io/badge/-joni.pedro97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joni.pedro97@gmail.com)](mailto:joni.pedro97@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-João_Marques-blue?style=flat&logo=facebook&logoColor=white&link=https://[[https://www.facebook.com/profile.php?id=100005309748742](https://www.facebook.com/profile.php?id=100005309748742)](https://www.facebook.com/profile.php?id=100005309748742))](https://https://www.facebook.com/profile.php?id=100005309748742)  [![GitLab Badge](https://img.shields.io/badge/-João_Marques_[@JPOM97]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://https://gitlab.com/J0M)](https://gitlab.com/J0M) [![Instagram Badge](https://img.shields.io/badge/-@_tiago_araujo94-e4405f?style=flat-squar&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/tiago_araujo94/)](https://www.instagram.com/tiago_araujo94/)
+[![Gmail Badge](https://img.shields.io/badge/-joni.pedro97@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joni.pedro97@gmail.com)](mailto:joni.pedro97@gmail.com)   [![GitLab Badge](https://img.shields.io/badge/-João_Marques_[@JPOM97]-c14438?color=F4F4F5&style=flat&logo=gitlab&logoColor=black&link=https://https://gitlab.com/J0M)](https://gitlab.com/J0M) 
 
 ##I'm a Web Developer student!
 
 - I'm currently finishing a Full-Stack Web Developer Bootcamp @ Academia de Código
 - I’m currently learning everything :rolling_on_the_floor_laughing:
 - Ask me about anything. I will try to help you as much as I can.
-- 2022 Goals: Start a carrer in Web Development
-- Fun fact: I love playing Badminton, videogames && watching anime
+- 2022 Goals: Starting a career as a full stack developer
+- Fun fact: I love cars and playing videogames
 - 
 ##Languages and Tools:
 
